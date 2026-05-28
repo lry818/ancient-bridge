@@ -1,0 +1,50 @@
+﻿[
+  {
+    "id": "1",
+    "name": "赵州�?,
+    "dynasty": "�?,
+    "year": 605,
+    "type": "arch",
+    "span": 37,
+    "length": 50.82,
+    "location": {
+      "province": "河北�?,
+      "city": "石家庄市",
+      "lng": 114.5333,
+      "lat": 37.9333
+    },
+    "imageUrl": "/images/zhaozhou.jpg",
+    "material": "石料",
+    "technique": "敞肩拱结构，减轻了桥身自重，增加了泄洪能力，是世界上最早的敞肩拱桥�?,
+    "status": "全国重点文物保护单位",
+    "techFeatures": "敞肩拱结构，减轻了桥身自重，增加了泄洪能力，是世界上最早的敞肩拱桥�?,
+    "structureIntro": "赵州桥采用敞肩拱结构，由28道拱券纵向并列砌成，净�?7.02米，拱矢�?.23米，桥面�?米。桥身由巨大的石料构成，每块石料重约1吨�?,
+    "historyBackground": "赵州桥建于隋朝大业年间（公元605-618年），由著名工匠李春设计建造。它是世界上现存最早、保存最完好的古代敞肩石拱桥，至今已�?400多年的历史�?,
+    "culturalValue": "赵州桥是中国古代桥梁建筑的杰出代表，体现了中国古代工匠的智慧和技艺。它不仅是中国古代科技的重要遗产，也是世界桥梁史上的重要里程碑�?,
+    "constructionMethod": "采用纵向并列砌券法，每道拱券独立砌筑，便于维修和更换。桥基采用天然地基，桥台由石块堆砌而成�?,
+    "protectionLevel": "全国重点文物保护单位",
+    "techDevelopments": [
+      {
+        "id": "tech1",
+        "period": "�?,
+        "category": "结构",
+        "description": "敞肩拱结构的发明",
+        "significance": "减轻了桥身自重，增加了泄洪能力，是世界桥梁史上的重要创新"
+      },
+      {
+        "id": "tech2",
+        "period": "�?,
+        "category": "施工",
+        "description": "纵向并列砌券�?,
+        "significance": "便于维修和更换，提高了桥梁的耐久�?
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "安平�?,
+    "dynasty": "�?,
+    "year": 1151,
+    "type": "beam",
+    "span": 2250,
+    "length": 2255,
